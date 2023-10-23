@@ -1,0 +1,10 @@
+pip install django
+// create a django project
+django-admin startproject projectname
+// running django project
+python manage.py runserver
+
+
+django-admin startproject emobilis
+
+python manage.py startapp teachers
